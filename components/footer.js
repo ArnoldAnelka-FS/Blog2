@@ -6,6 +6,7 @@ export default function footer() {
         <a href="/posts/entry2">Journal Entry 2 </a><br/>
         <a href="/posts/entry3">Journal Entry 3 </a>
         <a href="/posts/entry4">Journal Entry 4 </a>
+        <a href="/posts/entry5">Journal Entry 5 </a>
         </div>
     </div>
     )
