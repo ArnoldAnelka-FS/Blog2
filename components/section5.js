@@ -22,11 +22,11 @@ export default function section5() {
           </div>
           <div className="info flex justify-center flex-col">
            <div className="category">
-              <Link href={"/posts/entry2"}></Link>
-              <Link href={"/posts/entry2"}>January 21, 2023 </Link>
+              <Link href={"/posts/entry5"}></Link>
+              <Link href={"/posts/entry5"}>January 21, 2023 </Link>
            </div>
            <div className="title">
-           <Link href={"/posts/entry2"}>Introducing React Native </Link>
+           <Link href={"/posts/entry5"}>Introducing React Native </Link>
            </div>
            <p className="text-gray-500 py-3">Let's look at what React Native is and the difference between React Native and Reactjs.</p>
 
